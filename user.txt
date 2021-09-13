@@ -1,0 +1,12 @@
+admin
+root
+ceshi
+ceshi1
+test
+test1
+guest
+user
+sysadmin
+tomcat
+manager
+apache
